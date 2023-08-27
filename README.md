@@ -238,26 +238,3 @@ If you have questions or need help integrating the product please [contact us](h
 
 <br />
 
-## [PRO Version](https://www.creative-tim.com/product/soft-ui-dashboard-pro-django)   
-
-This design is a pixel-perfect [Bootstrap 5](https://www.admin-dashboards.com/bootstrap-5-templates/) Dashboard with a fresh, new design concept. `Soft UI Dashboard PRO` is built with over 300 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining.
-
-> Features: 
-
-- `Up-to-date Dependencies`
-- `Design`: [Django Theme Soft PRO](https://github.com/app-generator/django-admin-soft-pro) - `PRO Version`
-- `Sections` covered by the design:
-  - **Admin section** (reserved for superusers)
-  - **Authentication**: `Django.contrib.AUTH`, Registration
-  - **All Pages** available in for ordinary users 
-- `Docker`, `Deployment`:
-  - `CI/CD` flow via `Render`
-
-<br />
-
-[![Django - Soft UI Dashboard PRO (premium starter by AppSeed & Creative-Tim](https://user-images.githubusercontent.com/51070104/215022735-dec8e82e-ea91-4494-a521-db421e8637be.png)](https://www.creative-tim.com/product/soft-ui-dashboard-pro-django)
-
-<br />
-
----
-[Soft UI Dashboard - Django Template](https://www.creative-tim.com/product/soft-ui-dashboard-django) - Provided by [Creative Tim](https://www.creative-tim.com/) and [AppSeed](https://appseed.us)
